@@ -12,5 +12,5 @@ module.exports = {
   Payment: require("./Payment"),
   Review: require("./Review"),
   Shipment: require("./Shipment"),
-  WishlistItem: require("./WishListItem"),
+  WishlistItem: require("./WishlistItem")
 };
