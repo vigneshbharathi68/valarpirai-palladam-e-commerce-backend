@@ -1,0 +1,16 @@
+module.exports = {
+  User: require("./User"),
+  Address: require("./Address"),
+  Category: require("./Category"),
+  Product: require("./Product"),
+  ProductImage: require("./ProductImage"),
+  ProductVariant: require("./ProductVariant"),
+  Cart: require("./Cart"),
+  CartItem: require("./CartItem"),
+  Order: require("./Order"),
+  OrderItem: require("./OrderItem"),
+  Payment: require("./Payment"),
+  Review: require("./Review"),
+  Shipment: require("./Shipment"),
+  WishlistItem: require("./WishListItem"),
+};

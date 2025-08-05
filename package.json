@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce-mongodb-schema-executable",
+  "version": "1.0.0",
+  "main": "createEcommerceCollections.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshbharathi68/e-commerce-mongodb-schema.git"
+  },
+  "author": "vigneshbharathi21@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshbharathi68/e-commerce-mongodb-schema/issues"
+  },
+  "homepage": "https://github.com/vigneshbharathi68/e-commerce-mongodb-schema#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "mongodb": "^6.18.0"
+  }
+}
